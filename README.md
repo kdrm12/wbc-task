@@ -1,2 +1,2 @@
 # wbc-classification
-White blood cell classification using VIT
+White blood cell classification task
